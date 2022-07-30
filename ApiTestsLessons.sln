@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTestsLessons", "ApiTestsLessons\ApiTestsLessons.csproj", "{AD12B9EC-4F05-4360-A0FD-4974E16F2034}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApiEnvironment", "RestApiEnvironment\RestApiEnvironment.csproj", "{650EB643-5E78-4AED-A4A5-B01D56178362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD12B9EC-4F05-4360-A0FD-4974E16F2034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD12B9EC-4F05-4360-A0FD-4974E16F2034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD12B9EC-4F05-4360-A0FD-4974E16F2034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD12B9EC-4F05-4360-A0FD-4974E16F2034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{650EB643-5E78-4AED-A4A5-B01D56178362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650EB643-5E78-4AED-A4A5-B01D56178362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{650EB643-5E78-4AED-A4A5-B01D56178362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650EB643-5E78-4AED-A4A5-B01D56178362}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
